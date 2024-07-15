@@ -15,14 +15,14 @@ class HomePage extends StatelessWidget {
               onTap: () {
                 Navigator.push(
                   context,
-                  MaterialPageRoute(builder: (context) => SettingsPage()),
+                  MaterialPageRoute(builder: (context) => const SettingsPage()),
                 );
               },
             ),
           ],
         ),
       ),
-      body: const Center(child: Text('Home Scrren')),
+      body: const Center(child: Text('Home Screen')),
     );
   }
 }
