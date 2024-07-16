@@ -1,5 +1,5 @@
-import 'package:cubittheme/blocs/product_cubit.dart';
-import 'package:cubittheme/blocs/product_state.dart';
+import 'package:cubittheme/cubit/product_cubit.dart';
+import 'package:cubittheme/cubit/product_state.dart';
 import 'package:cubittheme/widgets/product_item.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

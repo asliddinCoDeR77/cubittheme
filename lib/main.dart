@@ -1,9 +1,8 @@
-import 'package:cubittheme/blocs/cart_cubit.dart';
-import 'package:cubittheme/blocs/order_cubit.dart';
-import 'package:cubittheme/blocs/product_cubit.dart';
-import 'package:cubittheme/blocs/theme_cubit.dart';
+import 'package:cubittheme/cubit/cart_cubit.dart';
+import 'package:cubittheme/cubit/order_cubit.dart';
+import 'package:cubittheme/cubit/product_cubit.dart';
+import 'package:cubittheme/cubit/theme_cubit.dart';
 import 'package:cubittheme/pages/home_page.dart';
-import 'package:cubittheme/screens/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

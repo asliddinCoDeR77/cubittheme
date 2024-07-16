@@ -1,5 +1,5 @@
-import 'package:cubittheme/blocs/product_cubit.dart';
-import 'package:cubittheme/blocs/theme_cubit.dart';
+import 'package:cubittheme/cubit/product_cubit.dart';
+import 'package:cubittheme/cubit/theme_cubit.dart';
 import 'package:cubittheme/models/product.dart';
 import 'package:cubittheme/pages/cart_page.dart';
 import 'package:cubittheme/pages/favorits_page.dart';
